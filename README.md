@@ -16,7 +16,7 @@ Linux İçin:
 
 ```
 cd kodluyoruzilkrepo
-code 
+code .
 ```
 
 ## Contributing
@@ -28,5 +28,5 @@ istediğinizi tartışmak için bir konu açınız.
 ## License
 
 [MIT](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt)
-
+***
 ![Image](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/markdown.png)
